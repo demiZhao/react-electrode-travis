@@ -53,7 +53,7 @@ class Home extends React.Component {
 
         <section styleName="custom.header">
           <h2>
-            <span>Hello from </span>
+            <span>Hello from DemiZhao</span>
             <a href="https://github.com/electrode-io">
               {"Electrode"}
               <img src={electrodePng} />
